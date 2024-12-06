@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/manik-ubunto/Docker/docker-with-typescript-backend-module-5/logs/winston/successes/.ab8db22dee31f19644fc887dec7f25247024954d-audit.json",
+    "files": [
+        {
+            "date": 1733476023595,
+            "name": "/home/manik-ubunto/Docker/docker-with-typescript-backend-module-5/logs/winston/successes/docker-2024-12-06-15-07-03-success.log",
+            "hash": "5621067cc2b924e50b293fa700095e089fc8378e97721ece67cb98d32a14645b"
+        },
+        {
+            "date": 1733476048480,
+            "name": "/home/manik-ubunto/Docker/docker-with-typescript-backend-module-5/logs/winston/successes/docker-2024-12-06-15-07-28-success.log",
+            "hash": "ef93872f6651a36658868261b91756248e6b77ef84a1a9d34e4b95fcb1438dc2"
+        }
+    ],
+    "hashType": "sha256"
+}
