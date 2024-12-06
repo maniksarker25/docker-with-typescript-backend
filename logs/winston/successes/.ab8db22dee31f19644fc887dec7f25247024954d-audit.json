@@ -14,6 +14,11 @@
             "date": 1733476048480,
             "name": "/home/manik-ubunto/Docker/docker-with-typescript-backend-module-5/logs/winston/successes/docker-2024-12-06-15-07-28-success.log",
             "hash": "ef93872f6651a36658868261b91756248e6b77ef84a1a9d34e4b95fcb1438dc2"
+        },
+        {
+            "date": 1733476412852,
+            "name": "/home/manik-ubunto/Docker/docker-with-typescript-backend-module-5/logs/winston/successes/docker-2024-12-06-15-13-32-success.log",
+            "hash": "62aae038f01b7843687de05a0627bf91d7b8a101220d6274c4aab2f12646794b"
         }
     ],
     "hashType": "sha256"

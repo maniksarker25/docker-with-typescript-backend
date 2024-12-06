@@ -7,7 +7,7 @@ import { errorlogger } from "./app/src/shared/logger";
 
 const app: Application = express();
 
-// Serve static files like CSS
+// Serve static files like CSS-----
 app.use(express.static(path.join(__dirname, "../public"))); // Adjusted path
 
 app.use(
